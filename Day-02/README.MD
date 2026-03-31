@@ -10,3 +10,9 @@
 - Kill your current terminal and open a New Terminal (Ctrl + Shift +       ). VS Code will now automatically activate it for you.
 
 3.Python provides a rich set of built-in data structures and supports the implementation of various user-defined structures. The primary built-in data structures are lists, tuples, sets, and dictionaries, each offering unique ways to organize, store, and process data.
+
+4. What is an API?
+- API = way to communicate between systems (HTTP requests)
+
+5. What is JSON?
+- JSON = data format used in:APIs ,Config files ,Cloud responses
