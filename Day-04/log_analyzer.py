@@ -53,3 +53,4 @@ if __name__ == "__main__":
     OUTPUT_REPORT = "log_summary.txt"
     
     analyze_log_file(INPUT_LOG, OUTPUT_REPORT)
+    
