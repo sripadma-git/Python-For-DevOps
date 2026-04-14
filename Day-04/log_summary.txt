@@ -1,0 +1,6 @@
+Log Analysis Report
+Source: app.log
+--------------------
+INFO: 10
+WARNING: 2
+ERROR: 3
